@@ -1,6 +1,6 @@
 # Lista de Exercícios em Python
 
-Este repositório contém exercícios propostos pelo professor a partir do arquivo `python.json`. Cada exercício resolvido está em um arquivo `.py` com o mesmo nome do título do exercício.
+ Este repositório contém exercícios propostos no arquivo `python.json`. Cada exercício resolvido está em um arquivo `.py` com o mesmo nome do título do exercício. Este trabalho avaliativo foi desenvolvido para a disciplina Laboratório de Programação, ministrada pelo professor Marcos Vinicius Silva Bento, no curso de Ciência da Computação.
 
 1. [Percorrendo uma Lista](Percorrendo_uma_Lista.py)  
    Crie uma função que receba uma lista como argumento e percorra todos os seus elementos, imprimindo cada um na tela.
